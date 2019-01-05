@@ -10,6 +10,6 @@ public class FirstCommitFile {
 
 	//
 	public void dev2(){
-		System.out.println("111");
+		System.out.println("222");
 	}
 }
