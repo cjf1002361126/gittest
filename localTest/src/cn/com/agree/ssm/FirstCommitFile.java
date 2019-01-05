@@ -7,11 +7,9 @@ public class FirstCommitFile {
 		//
 	}
 	
-	public void test(){
-		
-	}
+
 	//
 	public void dev2(){
-		
+		System.out.println("111");
 	}
 }
