@@ -11,4 +11,7 @@ public class FirstCommitFile {
 		
 	}
 	//
+	public void dev2(){
+		
+	}
 }
